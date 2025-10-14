@@ -1,0 +1,21 @@
+{
+  "name": "romcal-api-svf",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@romcal/calendar.argentina": "^3.0.0-dev.114",
+    "@romcal/calendar.general-roman": "^3.0.0-dev.114",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "romcal": "^3.0.0-dev.114"
+  },
+  "description": ""
+}
